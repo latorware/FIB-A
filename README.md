@@ -14,7 +14,7 @@ https://github.com/MrRobb/A-FIB
 
 https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Computacio/A
 
-# Other links
+## Other links
 
 [Dictionary of Algorithms and Data Structures](Dictionary of Algorithms and Data Structures)
 

@@ -1,6 +1,6 @@
 # FIB-A
 
-##Subject webpages
+## Subject webpages
 
 **[Main webpage](https://www.cs.upc.edu/~mjserna/docencia/grauA/alg-GEI.html)**
 [Raco](https://raco.fib.upc.edu/home/assignatura?espai=270021)

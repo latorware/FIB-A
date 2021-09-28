@@ -1,5 +1,7 @@
 # FIB-A (2021-2022 Q1)
 
+Algorithmics - Algoritmia - Computación - FIB
+
 ## Subject webpages
 
 **[Main webpage](https://www.cs.upc.edu/~mjserna/docencia/grauA/alg-GEI.html)**

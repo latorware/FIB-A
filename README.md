@@ -16,6 +16,6 @@ https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Computacio/A
 
 ## Other links
 
-[Dictionary of Algorithms and Data Structures](Dictionary of Algorithms and Data Structures)
+[Dictionary of Algorithms and Data Structures](https://www.cs.upc.edu/~mjserna/docencia/grauA/alg-GEI.html)
 
 

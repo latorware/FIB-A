@@ -7,3 +7,15 @@
 [Raco](https://raco.fib.upc.edu/home/assignatura?espai=270021)
 
 [Guia Docent](https://raco.fib.upc.edu/servlet/raco.assig.GuiaDocent?codi_asg=GRAU-A)
+
+## Other repos
+
+https://github.com/MrRobb/A-FIB
+
+https://github.com/RepoFIBtori/RepoFIBtori/tree/master/Computacio/A
+
+# Other links
+
+[Dictionary of Algorithms and Data Structures](Dictionary of Algorithms and Data Structures)
+
+
